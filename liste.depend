@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1481589444 source:c:\users\andi\codeblocksworkspace\liste\main.cpp
+	<iostream>
+	"list.h"
+
+1481589306 source:c:\users\andi\codeblocksworkspace\liste\list.cpp
+	"list.h"
+	<string>
+	<iostream>
+
+1481587021 c:\users\andi\codeblocksworkspace\liste\list.h
+
+1481739254 source:c:\users\andi\codeblockprojects\liste\main.cpp
+	<iostream>
+	"list.h"
+
+1481735045 c:\users\andi\codeblockprojects\liste\list.h
+	"iterator.h"
+
+1481738808 source:c:\users\andi\codeblockprojects\liste\list.cpp
+	"list.h"
+	<string>
+	<iostream>
+
+1481652995 c:\users\andi\codeblockprojects\liste\iterator.h
+
+1481653765 source:c:\users\andi\codeblockprojects\liste\iterator.cpp
+	"iterator.h"
+
+1481750846 source:c:\users\andi\codeblockprojects\listetemplates\iterator.cpp
+	"iterator.h"
+
+1481750835 c:\users\andi\codeblockprojects\listetemplates\iterator.h
+
+1481749125 source:c:\users\andi\codeblockprojects\listetemplates\main.cpp
+	"list.h"
+	<iostream>
+	<string>
+
+1481750654 c:\users\andi\codeblockprojects\listetemplates\list.h
+	<string>
+	<iostream>
+
+1481749031 source:c:\users\andi\codeblockprojects\listetemplates\list.cpp
+
